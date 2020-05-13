@@ -1,0 +1,448 @@
+{
+    "fecha": [{
+            "errors": [],
+            "search": "rice",
+            "excutionTime": 2.1,
+            "totalMatches": 15,
+            "date": "16-04-2020",
+            "products": [{
+                    "nombre": "(4 Pack) Minute Ready To Serve Jasmine Fragrant Thai White Rice, 4.4 oz Cups, 2 Count",
+                    "valor": 6.55,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_3hvqrpxprub15u918p9hrl2v19liqm9it33a"
+                },
+                {
+                    "nombre": "Gourmet House Minnesota Cultivated All-Natural Wild <mark>Rice</mark>, 1-Pound Bag",
+                    "valor": 4.92,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_2rrplpjtl2dw7uya0xlahbwirzk0a8o9uwug"
+                },
+                {
+                    "nombre": "(2 Pack) Near East Quinoa & Brown Rice, Roasted Red Pepper & Basil, 4.9 oz",
+                    "valor": 4.96,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_5qfypnah9rrp5viv8btx49arvvpohhjuf88q"
+                },
+                {
+                    "nombre": "Nishiki Medium Grain <mark>Rice</mark>, 5 lb",
+                    "valor": 6.12,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_uv2vmfxq78lzdd7duc1w16tv5bwlv96abxfu"
+                },
+                {
+                    "nombre": "(5 Pack) Rice-A-Roni Rice & Vermicelli Mix, Chicken, 13.8 oz Box",
+                    "valor": 6.89,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_8mtyaap667tofg8lo4wpb8ac2z9h83x5rbeq"
+                },
+                {
+                    "nombre": "(12 Pack) Rice-A-Roni Rice & Vermicelli Mix Creamy Four Cheese, 2.25 oz Cup",
+                    "valor": 10.76,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_l846xmdvz1w61tib8oddnu7o2gzl7rzdzjb1"
+                },
+                {
+                    "nombre": "(6 Pack) Chicken Helper Chicken Fried Rice, 7 oz Box",
+                    "valor": 6.88,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_uq1d54dllp0ojy7rgyjbqi5kjn9oaqpy92gr"
+                },
+                {
+                    "nombre": "Otis McAllister Super Lucky Elephant Jasmine <mark>Rice</mark>, 5 lb",
+                    "valor": 5.98,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_y6isuursezhnkifny1tr11bqbhnq9qwjiuyh"
+                },
+                {
+                    "nombre": "(6 Pack) Gerber Organic Rice Baby Cereal 8 oz.",
+                    "valor": 19.73,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_1li0q5wjuiu5eifvkhx45y3n91bnwdcdtrjf"
+                },
+                {
+                    "nombre": "(6 Pack) Mahatma Red Beans & Long Grain Rice with Seasonings 8 oz",
+                    "valor": 7.32,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_t0di3p2xnsgdihsrsunyoejc0o6b0jpoirgo"
+                },
+                {
+                    "nombre": "GERBER Single-Grain Rice Baby Cereal 16 oz",
+                    "valor": 4.14,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_rxqw5m7palv0gewkzoq331v5og5tya65d934"
+                },
+                {
+                    "nombre": "Nishiki Premium Grade Sushi <mark>Rice</mark>, 32 oz, (Pack of 12)",
+                    "valor": 45.49,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_orv51cot8mgm6z2gotfydeg7oz89j972xix6"
+                },
+                {
+                    "nombre": "Nishiki Premium Brown <mark>Rice</mark>, 15 lb",
+                    "valor": 17.34,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_h3jt0xkklal2tbk8bba8w9bkbjuug7s53aoa"
+                },
+                {
+                    "nombre": "Nishiki Medium Grain <mark>Rice</mark>, 10 lb",
+                    "valor": 11.24,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_kdyu286gy064mtd8gso5bqd3sbki6gohcgff"
+                },
+                {
+                    "nombre": "Carolina Jasmine Enriched Thai Fragrant Long Grain <mark>Rice</mark>, 5-Pound Bag",
+                    "valor": 5.64,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_evzwqgqfnx3c4ewbrrysm3h1ay3ljkw6wm9k"
+                }
+            ]
+        }, {
+            "errors": [],
+            "search": "milk",
+            "excutionTime": 1.9,
+            "totalMatches": 30,
+            "date": "16-04-2020",
+            "products": [{
+                    "nombre": "(Pack of 6) Silk Original Soymilk, Non-Dairy, Vegan, Plant-Based, 32 fl oz",
+                    "valor": 13.14,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_rq52qtit23g3qnr3arn9n6whzi7pnnmjkj0r"
+                },
+                {
+                    "nombre": "Horizon Organic Low Fat Strawberry <mark>Milk</mark>, 8 fl oz, 6 Count",
+                    "valor": 6.32,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_ma9ny3nqlyfideiz7d0c2obxbinyrmvco9s6"
+                },
+                {
+                    "nombre": "Westsoy Organic Unsweetened Vanilla Soy <mark>Milk</mark>, 32 oz.",
+                    "valor": 3.24,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_v5jsmsm50j749r5rsh2sp51rjc70l723v50t"
+                },
+                {
+                    "nombre": "Silk Dark Chocolate Almond <mark>Milk</mark>, 8 fl oz, 6 Count",
+                    "valor": 9.5,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_ioxoyq0mbxbf5ifq74yjf4nyxul7slz0fqfw"
+                },
+                {
+                    "nombre": "Almond Breeze Almondmilk, Unsweetened Vanilla 32 oz (Pack of 12)",
+                    "valor": 31.67,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_hmmw0jctiv5invgilsebkql3kx8d9m6iw4ns"
+                },
+                {
+                    "nombre": "(2 Pack) CARNATION Almond Cooking Milk – USDA Organic Milk Substitute for Sweet and Savory Recipes, Rich and Delicious Organic Almond Milk, 11 fl. oz",
+                    "valor": 4.77,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_x2adfvg1w42k4ynizyydy95gddqhqm4zyug2"
+                },
+                {
+                    "nombre": "<mark>Milk</mark> Powder, Low Heat, Nonfat (4 oz, ZIN: 525350)",
+                    "valor": 3.9,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_tpkkoyiurrnfa4f7badf8if0kmeu9px4ubq9"
+                },
+                {
+                    "nombre": "(3 pack) Rice Dream Classic Vanilla Rice Milk Drink, 32 fl oz",
+                    "valor": 8.94,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_t2im6fuo60y8fv66yqwdx1ow6wv7e2xpd65r"
+                },
+                {
+                    "nombre": "embē Organic Coconut <mark>Milk</mark> Powder (7 oz)",
+                    "valor": 8,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_wwzjrvf0otvadl5zxezr1gur695z6vgl6izk"
+                },
+                {
+                    "nombre": "Oatsome Organic Oat <mark>Milk</mark> 32 fl oz",
+                    "valor": 3.29,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_290qugb6kl03qbfpzwecptoeo387o9ekn885"
+                },
+                {
+                    "nombre": "Ripple Barista Style Plant-Based <mark>Milk</mark>, 32 fl oz | Foams & Froths Just Like Dairy, Perfect For Coffee, Tea, Lattes and Hot Chocolate | 6g of Protein Per Serving",
+                    "valor": 4.99,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_85un0hs9i6q170infvec8hvucxshx3aznye1"
+                },
+                {
+                    "nombre": "Ripple Original Dairy-Free <mark>Milk</mark>, 8 fl oz, 4 count",
+                    "valor": 12.97,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_qb7ios1qkndoekxagcec6d05qc5hjvikvfml"
+                },
+                {
+                    "nombre": "<mark>Milk</mark>adamia Unsweetened Vanilla Macadamia <mark>Milk</mark>, 32 fl oz",
+                    "valor": 4.99,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_ord89p3z2yve9algizaa8nloupph0vyty32u"
+                },
+                {
+                    "nombre": "(2 Pack) SOY DREAM Enriched Original Organic Soymilk, 32 fl oz",
+                    "valor": 12.05,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_8l7062p3f914bfup3zw1ohhogx74ws6b4nc4"
+                },
+                {
+                    "nombre": "(3 pack) Coconut Dream Enriched Original Unsweetened Coconut Milk, 32 fl oz",
+                    "valor": 9.84,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_nshb0ujl5zmzggush9t9v4yu7n3zim9r97ru"
+                },
+                {
+                    "nombre": "(3 pack) Rice Dream Enriched Vanilla Rice Milk, 32 fl oz",
+                    "valor": 8.94,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_fhxizuw6unfmwlvlstipbnodlb0j8zmwa9lf"
+                },
+                {
+                    "nombre": "(2 pack) Milkadamia Original Macadamia Milk, 32 fl oz",
+                    "valor": 8.6,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_uy62rxz9ljnzu2kidx7xru7khycyat4lt1h5"
+                },
+                {
+                    "nombre": "Nesquik Snickers Flavored Chocolate <mark>Milk</mark>, 8 oz bottles, 6 pack",
+                    "valor": 5.98,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_dxvotxmilxk2s8zx62ezstmeqtk7u4scbhxm"
+                },
+                {
+                    "nombre": "(3 Pack) Horizon Organic Strawberry Organic Lowfat Milk, 8 fl oz, 6 count",
+                    "valor": 18.07,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_cl6v1ml8ia9uvnu88tzc0fpxpm1ldsm2av1i"
+                },
+                {
+                    "nombre": "Malted <mark>Milk</mark> Powder (4 oz, ZIN: 525356)",
+                    "valor": 6.6,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_2061kp90q2yx8lfnlzxeiwralvaizcv6jg5u"
+                },
+                {
+                    "nombre": "(24 Pack) Pacific Foods Enriched Soy <mark>Milk</mark> Non-Dairy Beverage, Vanilla, 8 oz",
+                    "valor": 24.98,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_sdqp8hqas7dxc7i0exezm5w1k3no1y6z3j0o"
+                },
+                {
+                    "nombre": "Malted <mark>Milk</mark> Powder (16 oz, ZIN: 525358)",
+                    "valor": 10.74,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_6bznn7vd8vdbo18z7f078dd1ezy8ie71j863"
+                },
+                {
+                    "nombre": "Thick & Easy Dairy Thickened Beverage 8 oz. Carton <mark>Milk</mark> Flavor Ready to Use Nectar Consistency, 24739 - EACH",
+                    "valor": 9.44,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_5ho5d173uqws3f7pl6vixbui86c565rt90vt"
+                },
+                {
+                    "nombre": "Soy Dream Enriched Original Organic Soymilk, 32 fl oz",
+                    "valor": 6.21,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_xu7njbp7ypbxk9t8mpn62j5qplxysm3rg1ay"
+                },
+                {
+                    "nombre": "Jarrow Formulas Golden <mark>Milk</mark>, With Grass Fed Whey and Warming Spices, 9.5 Ounce",
+                    "valor": 21.95,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_683bnu1d6wgefj6vzvmun6rih6kvjxcqt9ak"
+                },
+                {
+                    "nombre": "(12 Pack) Pacific Natural Foods Original Hemp <mark>Milk</mark>, 32 fl oz",
+                    "valor": 44.75,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_2w0xxbn678sx9m56nve818x11ndpd59rc97e"
+                },
+                {
+                    "nombre": "Buttermilk Powder (8 oz, ZIN: 525348)",
+                    "valor": 7.61,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_lqv2lbvfgz968coi6m4e5fh0wa6e1wyez2sx"
+                },
+                {
+                    "nombre": "Ripple Chocolate Dairy-Free Pea <mark>Milk</mark>, 8 fl oz, 4 count",
+                    "valor": 7.49,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_6sficnbfsc1kpz2w9v1y3syg3n4yjuo3xvzm"
+                },
+                {
+                    "nombre": "(Pack of 12) Pacific Ultra Soy Original Non-Dairy Beverage, 32 fl oz",
+                    "valor": 34.1,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_eq2xy5jqkwvyn4ev6e9r0runej0hbj9t2w0f"
+                },
+                {
+                    "nombre": "Almond Breeze Almond <mark>Milk</mark>, Chocolate 8 fl oz, 4 Count",
+                    "valor": 7.98,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_ll226divkmty9x5ait6mjlaw92io0nqq7ty0"
+                }
+            ]
+        }, {
+            "errors": [],
+            "search": "tomato",
+            "excutionTime": 2.2,
+            "totalMatches": 12,
+            "date": "16-04-2020",
+            "products": [{
+                    "nombre": "Mutti Finely Chopped <mark>Tomatoes</mark> with Onion Garlic & Basil, 14 oz, (Pack of 12)",
+                    "valor": 27.97,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_1zbhyilyxke89opmq169thmjz3huqqdmfmuy"
+                },
+                {
+                    "nombre": "Mutti Peeled <mark>Tomatoes</mark>, 28 oz, (Pack of 12)",
+                    "valor": 55.82,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_3zitdh1h93gvk3xw7uacog0kqs9buqldozff"
+                },
+                {
+                    "nombre": "Mutti Peeled <mark>Tomatoes</mark>, 14 oz., (Pack of 12)",
+                    "valor": 27.97,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_yi2dqtlkt64c6s7ary65sllepvujofrnifcf"
+                },
+                {
+                    "nombre": "RO*TEL Original Diced <mark>Tomatoes</mark> and Green Chilies 10 Ounce (8 Pack)",
+                    "valor": 8.68,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_zahlehhgg7kbv9jmbkdh92titqx51emf9s12"
+                },
+                {
+                    "nombre": "Muir Glen, Organic Crushed Fire Roasted <mark>Tomatoes</mark>, 28 oz",
+                    "valor": 2.43,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_6vyhb1z5kkvz9hulo1p2cczxuj9r8rq77fpg"
+                },
+                {
+                    "nombre": "Great Value Diced Tomatoes In Tomato Juice, 14.5 Oz",
+                    "valor": 0.46,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_jboevzjznuilak0xogojix9ur2ti656rushk"
+                },
+                {
+                    "nombre": "RO*TEL Original Diced Tomatoes and Green Chilies 10 Ounce",
+                    "valor": 0.98,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_5rk5791rvq95y6uepo39ibvchz6nm9gglu2n"
+                },
+                {
+                    "nombre": "Great Value Golden Sweet Whole Kernel Corn, 15 oz",
+                    "valor": 1.48,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_65wd9zjne926ecccy58dsutbmdktvvjkqd3s"
+                },
+                {
+                    "nombre": "Hunts Petite Diced Tomatoes 14.5 oz",
+                    "valor": 0.98,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_uyub1amdfu291xi8vs57mpi0edndbewwqzrj"
+                },
+                {
+                    "nombre": "Cento <mark>Tomato</mark> Puree, 28 Oz",
+                    "valor": 1.96,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_8gv837m00bxksd8wkbrgor4ke6xmqbalete3"
+                },
+                {
+                    "nombre": "RO*TEL Mexican Style Diced Tomatoes with Lime Juice and Cilantro 10 Ounce",
+                    "valor": 0.98,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_zewe2rmqkkdsd5naqufaehqtkgjj6c5krk12"
+                },
+                {
+                    "nombre": "RO*TEL Hot Diced Tomatoes with Habaneros 10 Ounce",
+                    "valor": 0.98,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_q5z4l4mn1a8f5fdc9zu0wf0hok1km97zm4oc"
+                }
+            ]
+        }, {
+            "errors": [],
+            "search": "meat",
+            "excutionTime": 2.1,
+            "totalMatches": 3,
+            "date": "16-04-2020",
+            "products": [{
+                    "nombre": "(2 Pack) Libby's Corned Beef Hash, 15 Ounce",
+                    "valor": 5.16,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_04xmo2gndq1k5hp5dbaoq15eakgdwnhj3htr"
+                },
+                {
+                    "nombre": "(4 Pack) Valley Fresh 100% Natural Canned Chicken Breast with Rib <mark>Meat</mark> in Broth, 5 oz",
+                    "valor": 6.31,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_6oqqi772fq903bwj3adpdermnljowj8rudaq"
+                },
+                {
+                    "nombre": "(3 Pack) Hartford House Corned Beef Hash, 15 oz Can",
+                    "valor": 6,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_hnoy59rolcxv2h7mqyq0dlg6qtqk4z8ltvvu"
+                }
+            ]
+        },
+        {
+            "errors": [],
+            "search": "beans",
+            "excutionTime": 2.5,
+            "totalMatches": 8,
+            "date": "16-04-2020",
+            "products": [{
+                    "nombre": "BUSH'S Chili <mark>Beans</mark>, Pinto <mark>Beans</mark> in Mild Chili Sauce, Bulk Canned <mark>Beans</mark>, 111 Oz",
+                    "valor": 4.98,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_uw8ns0qgrmluz8f36ldubqmxmaqfptqtifa2"
+                },
+                {
+                    "nombre": "(3 pack) Bushs Best Pinto Beans, 16 oz",
+                    "valor": 4.08,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_gwo6sz44zbi59mh1sepmpb2dfwv0ir8e85dw"
+                },
+                {
+                    "nombre": "(2 Pack) Great Value Black Beans, 32 oz",
+                    "valor": 5.48,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_p1upvceojsyrnjh6j9xnkq3vd2759vvyt9ry"
+                },
+                {
+                    "nombre": "BUSHS Original Baked <mark>Beans</mark> 117 oz.",
+                    "valor": 6.98,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_gyqb288ag35k4g8sum6krty4lvfc27rzovam"
+                },
+                {
+                    "nombre": "(6 Pack) Goya Pink Beans 15.5 Oz",
+                    "valor": 5.94,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_tryetgr20rmd93taq7w9je8rx4yzhibcdes5"
+                },
+                {
+                    "nombre": "(2 Pack) Verde Valle Peruano Mayocoba Beans, 32 oz",
+                    "valor": 7.64,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_vvwrxh2lf0c5i6pr6rn0v4mlgzromljksv4p"
+                },
+                {
+                    "nombre": "Great Value Cut Green Beans, 8 oz",
+                    "valor": 0.46,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_iow8wb2hzekszkyrr7ue4rdc7lhvzg6s1sy6"
+                },
+                {
+                    "nombre": "Hormel Chili With <mark>Beans</mark>, 15 Ounce Can (Pack of 4)",
+                    "valor": 6.51,
+                    "pais": "ESTADOS UNIDOS",
+                    "id": "_1nhyeq5qw69zvaqv7ai8nxlgbsbm2u8h6xn5"
+                }
+            ]
+        }
+    ]
+}
